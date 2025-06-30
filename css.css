@@ -1,0 +1,9 @@
+#about{
+    width:30rem; display:flex;
+}
+#cards{
+    width:30rem; display:flex;
+    margin-left:30px;
+
+    justify-content:space-around;
+}
